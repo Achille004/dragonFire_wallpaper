@@ -10,4 +10,4 @@ The wallpaper is an HTML page which, using [Lively Wallpaper](https://github.com
 ![dragonFire preview](https://raw.githubusercontent.com/Achille004/dragonFire_wallpaper/main/dragonFire_preview.gif?raw=true)
 
 ## License
-Dragon Fire Wallpaper is licensed under [MIT LIcense](https://github.com/Achille004/dragonFire_wallpaper/blob/main/LICENSE.md).
+Dragon Fire Wallpaper is licensed under [MIT License](https://github.com/Achille004/dragonFire_wallpaper/blob/main/LICENSE.md).
